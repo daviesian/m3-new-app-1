@@ -3,10 +3,10 @@ is_package: true
 components_by_slot:
   slot_1:
   - name: button_1
-    properties: {text: "\n  Heis a buttonre \n"}
+    properties: {text: Not sure what happened there}
     type: form:dep_flbkbdcdzvmkka:Components.Button
     layout_properties: {}
   - name: button_2
-    properties: {}
+    properties: {text: "What about this one? \n"}
     type: form:dep_flbkbdcdzvmkka:Components.Button
     layout_properties: {}
