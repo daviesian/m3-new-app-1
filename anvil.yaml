@@ -9,7 +9,7 @@ runtime_options:
   server_spec: {base: python310-standard}
 dependencies:
 - dep_id: dep_flbkbdcdzvmkka
-  version: {dev: false}
+  version: {version_tag: v0.1-ian}
   resolution_hints: {app_id: AUZDNAJ6ZJ4XTSLH, name: Material 3 Theme 2.0, package_name: Material_3_Theme_2_0}
 services:
 - source: /runtime/services/tables.yml
