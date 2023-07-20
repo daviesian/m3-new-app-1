@@ -10,3 +10,19 @@ components_by_slot:
     properties: {text: "What about this one? \n", appearance: filled}
     type: form:dep_flbkbdcdzvmkka:Components.Button
     layout_properties: {}
+  - name: button_3
+    properties: {}
+    type: form:dep_flbkbdcdzvmkka:Components.Button
+    layout_properties: {}
+  - name: button_4
+    properties: {text: This is a button!}
+    type: form:dep_flbkbdcdzvmkka:Components.Button
+    layout_properties: {}
+  - name: button_5
+    properties: {text: This is also a button!}
+    type: form:dep_flbkbdcdzvmkka:Components.Button
+    layout_properties: {}
+  - name: button_6
+    properties: {text: asdbfhjisodefhguisdofg}
+    type: form:dep_flbkbdcdzvmkka:Components.Button
+    layout_properties: {}
