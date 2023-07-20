@@ -1,6 +1,7 @@
 allow_embedding: false
 package_name: M3_New_App_1
 name: M3 New App 1
+startup_form: Form1
 native_deps: {head_html: ''}
 runtime_options:
   version: 3

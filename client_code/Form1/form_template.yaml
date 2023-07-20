@@ -1,0 +1,8 @@
+layout: {type: 'form:dep_flbkbdcdzvmkka:StandardPageLayout'}
+is_package: true
+components_by_slot:
+  slot_1:
+  - name: button_1
+    properties: {}
+    type: form:dep_flbkbdcdzvmkka:Components.Button
+    layout_properties: {}
