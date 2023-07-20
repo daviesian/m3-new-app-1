@@ -1,9 +1,13 @@
 allow_embedding: false
 package_name: Custom_HTML_3
 name: Custom HTML 3
+native_deps: {head_html: ''}
 runtime_options:
-  version: 2
+  version: 3
   client_version: '3'
   server_version: python3-sandbox
   server_spec: {base: python310-standard}
-services: []
+services:
+- source: /runtime/services/tables.yml
+  client_config: {}
+  server_config: {}
